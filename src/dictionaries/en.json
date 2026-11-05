@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "siteTitle": "YUGA — International Business & Luxury",
+    "siteDescription": "Portfolio of Yuga — International Business Management student currently interning at Christian Louboutin. Focused on international business, luxury, customer relationships, CRM, and brand experiences.",
+    "ogTitle": "YUGA — An eye for detail. A future in luxury.",
+    "ogDescription": "Exploring the world of luxury through international business, customer relationships and the details that shape exceptional experiences."
+  },
+  "nav": {
+    "wordmark": "YUGA",
+    "about": "About",
+    "work": "Selected Work",
+    "luxury": "Luxury Edit",
+    "journal": "Journal",
+    "contact": "Contact",
+    "menuOpen": "Open navigation menu",
+    "menuClose": "Close navigation menu",
+    "language": "Language",
+    "skipToContent": "Skip to main content"
+  },
+  "hero": {
+    "kicker": "International Business · Luxury · Client Experience",
+    "title": "YUGA",
+    "subtitle": "An eye for detail. A future in luxury.",
+    "introduction": "Exploring the world of luxury through international business, customer relationships and the details that shape exceptional experiences.",
+    "exploreWork": "Explore My Work",
+    "getInTouch": "Get in Touch",
+    "portraitAlt": "Editorial portrait of Yuga in authentic aspect ratio",
+    "badge": "Internship at Christian Louboutin"
+  },
+  "introduction": {
+    "label": "01 — Overview",
+    "heading": "Business thinking, editorial sensitivity.",
+    "paragraph1": "I am an International Business Management student with a dedicated focus on the global luxury sector, client relationships, and business operations.",
+    "paragraph2": "My academic grounding and current internship at Christian Louboutin provide daily exposure to the systems, data precision, and human touches that underpin enduring luxury maisons.",
+    "quote": "“Luxury is felt in the details people remember.”",
+    "cta": "Read Full Biography"
+  },
+  "experience": {
+    "label": "02 — Experience",
+    "company": "Christian Louboutin",
+    "role": "Internship",
+    "designation": "Client Experience & Business Operations",
+    "summary": "Developing practical immersion in luxury retail operations, CRM systems, client relationship management, and data consistency. Focused on how meticulous back-office coordination drives flawless front-facing client experiences.",
+    "learningAreas": [
+      "Client Relationship Management (CRM) workflows",
+      "Retail data organization & reporting accuracy",
+      "Clienteling and omnichannel journey touchpoints",
+      "Operational coordination within a global luxury house"
+    ],
+    "disclaimer": "This portfolio presents individual academic studies and career perspectives. It implies no official sponsorship or corporate representation of Christian Louboutin.",
+    "viewMore": "Explore Background & Experience"
+  },
+  "work": {
+    "label": "03 — Selected Work",
+    "heading": "Curiosity, made considered.",
+    "description": "A developing portfolio of academic case studies, independent research, and operational frameworks.",
+    "emptyState": "Curated case studies and academic research are currently being prepared for publication. Full documentation will be available in the upcoming project release.",
+    "items": [
+      {
+        "id": "crm-operations",
+        "title": "CRM Systems & Client Retention Architecture",
+        "category": "Business Operations",
+        "summary": "An analytical study on how structured client data, milestone tracking, and cross-channel consistency elevate personalized luxury customer relationships.",
+        "status": "Academic Framework"
+      },
+      {
+        "id": "luxury-perception",
+        "title": "Editorial Presentation & Brand Perception",
+        "category": "Brand Experience",
+        "summary": "Investigating how visual codes, physical-digital touchpoints, and storytelling discipline shape consumer reverence in modern high-end retail.",
+        "status": "Independent Study"
+      },
+      {
+        "id": "global-expansion",
+        "title": "International Market Adaptation Strategies",
+        "category": "International Business",
+        "summary": "Strategic evaluation of international market entry models balancing global maison heritage with local cultural nuances.",
+        "status": "Research Brief"
+      }
+    ],
+    "viewProject": "View Framework"
+  },
+  "video": {
+    "label": "04 — In Motion",
+    "heading": "A quiet moment, in her own frame.",
+    "description": "Authentic portrait footage preserved in its natural orientation. Restrained motion, composure, and an eye for natural light.",
+    "play": "Play Video",
+    "pause": "Pause Video",
+    "mute": "Mute Audio",
+    "unmute": "Unmute Audio",
+    "videoAlt": "Short editorial portrait film of Yuga"
+  },
+  "journal": {
+    "label": "05 — Journal",
+    "heading": "Notes on luxury, business & culture.",
+    "description": "Editorial perspectives exploring the intersections of craft, global business models, and evolving customer expectations.",
+    "emptyNotice": "Editorial essays and analytical notes are slated for Phase 2 integration via CMS administration.",
+    "articles": [
+      {
+        "slug": "what-makes-a-luxury-experience-memorable",
+        "title": "What Makes a Luxury Experience Memorable?",
+        "category": "Client Experience",
+        "date": "Coming Soon",
+        "excerpt": "Analyzing why the invisible logistical preparations and emotional resonance matter far more than overt ostentation."
+      },
+      {
+        "slug": "heritage-and-modern-innovation",
+        "title": "The Dialogue Between Heritage and Modern Systems",
+        "category": "Luxury & Business",
+        "date": "Coming Soon",
+        "excerpt": "How multi-generational luxury houses navigate technological efficiency without diluting artisan provenance."
+      },
+      {
+        "slug": "attention-to-detail-in-operations",
+        "title": "Why Operational Precision Defines Brand Promise",
+        "category": "Business Operations",
+        "date": "Coming Soon",
+        "excerpt": "Exploring the silent backbone of luxury: clean databases, timely communication, and uncompromising standards."
+      }
+    ],
+    "readArticle": "Read Article"
+  },
+  "contactCta": {
+    "heading": "Let’s create something meaningful.",
+    "subheading": "Open to professional conversations, recruitment inquiries, and academic exchanges across international business and luxury.",
+    "button": "Get in Touch"
+  },
+  "aboutPage": {
+    "heroEyebrow": "Biography & Perspective",
+    "heroTitle": "Dedicated to the art of detail in global business.",
+    "heroIntro": "Yuga is an International Business Management student based in Paris, currently undertaking an internship at Christian Louboutin. Her work sits at the intersection of business rigor and luxury sensibility.",
+    "backgroundTitle": "Personal Background",
+    "backgroundBody1": "With an international upbringing and an intrinsic appreciation for craftsmanship, Yuga approaches business management through both analytical frameworks and cultural understanding.",
+    "backgroundBody2": "Her academic journey in International Business Management has provided a robust foundation in strategic analysis, finance, international trade, and cross-cultural leadership.",
+    "educationTitle": "Education",
+    "educationDegree": "Bachelor in International Business Management",
+    "educationStatus": "Current Student",
+    "educationDetails": "Curriculum focused on global market strategies, corporate finance, international negotiations, consumer behavior, and enterprise operations.",
+    "experienceTitle": "Professional Experience",
+    "experienceRole": "Internship — Client Experience & Operations",
+    "experienceCompany": "Christian Louboutin",
+    "experiencePeriod": "Current Internship",
+    "experienceDetails": "Assisting with CRM maintenance, operational synchronization, retail reporting, and the continuous enhancement of luxury client touchpoints.",
+    "skillsTitle": "Skills & Competencies",
+    "skillsCategories": {
+      "business": "International Business & Strategy",
+      "tools": "Systems & Analytics: Excel, CRM platforms, Data structuring",
+      "languages": "Multilingual communication (English, French, Japanese)",
+      "competencies": "Clienteling, operational coordination, luxury brand codes"
+    },
+    "careerTitle": "Career Direction",
+    "careerBody": "Committed to pursuing long-term opportunities within luxury houses and premium lifestyle groups, focusing on CRM strategy, retail operations, international development, and client experience management.",
+    "cvTitle": "Curriculum Vitae",
+    "cvDescription": "An official verified CV document is available upon formal request or recruitment review.",
+    "cvButton": "Request Official CV",
+    "cvNotice": "CV download component prepared. File delivery will be activated upon recruitment authorization."
+  },
+  "contactPage": {
+    "title": "Get in Touch",
+    "subtitle": "Initiate a conversation regarding opportunities, collaborations, or professional inquiries.",
+    "availability": "Currently open to internship follow-ups, recruitment dialogues, and luxury business exchanges.",
+    "form": {
+      "nameLabel": "Full Name",
+      "namePlaceholder": "Jane Doe",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "jane.doe@example.com",
+      "subjectLabel": "Subject",
+      "subjectPlaceholder": "Professional inquiry / Opportunity",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Share your thoughts or describe your inquiry...",
+      "submitButton": "Send Message",
+      "sendingButton": "Sending...",
+      "successTitle": "Message Received",
+      "successMessage": "Thank you for reaching out. Your message has been received and will be reviewed promptly.",
+      "errorTitle": "Transmission Error",
+      "errorMessage": "There was an issue sending your message. Please try again or reach out directly.",
+      "unconfiguredNotice": "Note: Direct email dispatch is in staging mode. Messages are validated and logged for Phase 1 demonstration.",
+      "validation": {
+        "nameRequired": "Please provide your full name (minimum 2 characters).",
+        "emailInvalid": "Please provide a valid email address.",
+        "subjectRequired": "Please enter a subject line (minimum 3 characters).",
+        "messageRequired": "Please write a message (minimum 10 characters)."
+      }
+    },
+    "details": {
+      "locationLabel": "Location",
+      "locationValue": "Paris, France",
+      "focusLabel": "Primary Focus",
+      "focusValue": "International Business & Luxury Operations",
+      "affiliationLabel": "Current Environment",
+      "affiliationValue": "Christian Louboutin (Internship)"
+    }
+  },
+  "futureRoutes": {
+    "workTitle": "Selected Work & Academic Portfolio",
+    "workSubtitle": "Detailed project breakdowns, business case analyses, and operational models.",
+    "luxuryTitle": "Luxury Edit",
+    "luxurySubtitle": "Editorial observations, craftsmanship deep-dives, and maison heritage studies.",
+    "journalTitle": "The Journal",
+    "journalSubtitle": "Reflections on luxury, client experience, and international commerce.",
+    "previewNotice": "This section represents a planned editorial destination. Full CMS-driven content will launch in Phase 2.",
+    "backHome": "Return to Homepage"
+  },
+  "footer": {
+    "tagline": "An eye for detail. A future in luxury.",
+    "copyright": "All rights reserved. Phase 1 Foundation.",
+    "backToTop": "Back to Top",
+    "disclaimer": "Independent personal portfolio. Christian Louboutin is referenced solely in an internship context."
+  }
+}
+

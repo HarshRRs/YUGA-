@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "siteTitle": "YUGA — Commerce International & Luxe",
+    "siteDescription": "Portfolio de Yuga — étudiante en gestion de commerce international actuellement en stage chez Christian Louboutin. Spécialisée dans le commerce international, le luxe, la relation client, le CRM et l’expérience de marque.",
+    "ogTitle": "YUGA — Le sens du détail. Un avenir dans le luxe.",
+    "ogDescription": "Explorer l’univers du luxe à travers le commerce international, la relation client et les détails qui façonnent des expériences d’exception."
+  },
+  "nav": {
+    "wordmark": "YUGA",
+    "about": "À propos",
+    "work": "Projets choisis",
+    "luxury": "Luxury Edit",
+    "journal": "Journal",
+    "contact": "Contact",
+    "menuOpen": "Ouvrir le menu de navigation",
+    "menuClose": "Fermer le menu de navigation",
+    "language": "Langue",
+    "skipToContent": "Passer au contenu principal"
+  },
+  "hero": {
+    "kicker": "Commerce International · Luxe · Expérience Client",
+    "title": "YUGA",
+    "subtitle": "Le sens du détail. Un avenir dans le luxe.",
+    "introduction": "Explorer l’univers du luxe à travers le commerce international, la relation client et les détails qui façonnent des expériences d’exception.",
+    "exploreWork": "Découvrir mes projets",
+    "getInTouch": "Me contacter",
+    "portraitAlt": "Portrait éditorial de Yuga préservé dans son format naturel",
+    "badge": "Stage chez Christian Louboutin"
+  },
+  "introduction": {
+    "label": "01 — Vue d'ensemble",
+    "heading": "Rigueur stratégique, sensibilité éditoriale.",
+    "paragraph1": "Je suis étudiante en gestion de commerce international, avec un intérêt profond pour le secteur du luxe, la relation client et les opérations commerciales.",
+    "paragraph2": "Ma formation académique et mon stage actuel chez Christian Louboutin m’offrent une immersion quotidienne dans les systèmes, la précision des données et les attentions qui fondent les grandes maisons.",
+    "quote": "« Le luxe se ressent dans les détails dont on se souvient. »",
+    "cta": "Lire la biographie complète"
+  },
+  "experience": {
+    "label": "02 — Expérience",
+    "company": "Christian Louboutin",
+    "role": "Stage",
+    "designation": "Expérience Client & Opérations Commerciales",
+    "summary": "Développement de compétences pratiques en opérations de vente de luxe, systèmes CRM, fidélisation et cohérence des données. Compréhension de la manière dont une rigueur opérationnelle invisible soutient une expérience client sans faille.",
+    "learningAreas": [
+      "Processus et outils de gestion de la relation client (CRM)",
+      "Organisation des données de vente et précision du reporting",
+      "Parcours client omnicanal et rituels de clienteling",
+      "Coordination opérationnelle au sein d’une maison de renommée mondiale"
+    ],
+    "disclaimer": "Ce portfolio reflète des études académiques et perspectives professionnelles individuelles. Il n’implique aucun parrainage officiel ni représentation de Christian Louboutin.",
+    "viewMore": "Explorer mon parcours & mon expérience"
+  },
+  "work": {
+    "label": "03 — Projets choisis",
+    "heading": "La curiosité, guidée par la réflexion.",
+    "description": "Un corpus en développement comprenant études de cas académiques, recherches indépendantes et méthodologies opérationnelles.",
+    "emptyState": "Les études de cas et travaux académiques sont actuellement en cours de préparation pour publication. La documentation complète sera disponible lors de la prochaine étape du projet.",
+    "items": [
+      {
+        "id": "crm-operations",
+        "title": "Architecture CRM & Fidélisation Client",
+        "category": "Opérations Commerciales",
+        "summary": "Étude analytique sur la structuration des données clients, le suivi des moments clés et la cohérence multicanale dans la relation client de prestige.",
+        "status": "Cadre Académique"
+      },
+      {
+        "id": "luxury-perception",
+        "title": "Présentation Éditoriale & Perception de Marque",
+        "category": "Expérience de Marque",
+        "summary": "Analyse des codes visuels, des points de contact physiques et digitaux, et de la narration qui renforcent l’attachement aux marques d'exception.",
+        "status": "Étude Indépendante"
+      },
+      {
+        "id": "global-expansion",
+        "title": "Stratégies d'Adaptation Internationale",
+        "category": "Commerce International",
+        "summary": "Évaluation stratégique des modèles d’implantation internationale, conjuguant l’héritage de la maison et les spécificités culturelles locales.",
+        "status": "Dossier de Recherche"
+      }
+    ],
+    "viewProject": "Consulter l'étude"
+  },
+  "video": {
+    "label": "04 — En Mouvement",
+    "heading": "Un instant suspendu, dans son propre cadre.",
+    "description": "Séquence vidéo authentique préservée dans son orientation naturelle. Mouvement mesuré, sérénité et lumière naturelle.",
+    "play": "Lire la vidéo",
+    "pause": "Mettre en pause",
+    "mute": "Couper le son",
+    "unmute": "Activer le son",
+    "videoAlt": "Court film portrait éditorial de Yuga"
+  },
+  "journal": {
+    "label": "05 — Journal",
+    "heading": "Notes sur le luxe, le commerce & la culture.",
+    "description": "Perspectives éditoriales explorant les liens entre savoir-faire artisanal, modèles économiques mondiaux et attentes clients.",
+    "emptyNotice": "Les essais éditoriaux et notes analytiques sont programmés pour l'intégration CMS en Phase 2.",
+    "articles": [
+      {
+        "slug": "what-makes-a-luxury-experience-memorable",
+        "title": "Qu'est-ce qui rend une expérience de luxe mémorable ?",
+        "category": "Expérience Client",
+        "date": "À venir",
+        "excerpt": "Comprendre pourquoi la préparation logistique invisible et la résonance émotionnelle priment sur l'ostentation."
+      },
+      {
+        "slug": "heritage-and-modern-innovation",
+        "title": "Le dialogue entre héritage et systèmes contemporains",
+        "category": "Luxe & Commerce",
+        "date": "À venir",
+        "excerpt": "Comment les maisons historiques adoptent l'efficacité technologique sans compromettre leur savoir-faire."
+      },
+      {
+        "slug": "attention-to-detail-in-operations",
+        "title": "Pourquoi la précision opérationnelle fonde la promesse de marque",
+        "category": "Opérations Commerciales",
+        "date": "À venir",
+        "excerpt": "Le socle discret du luxe : bases de données soignées, rigueur d'exécution et exigence constante."
+      }
+    ],
+    "readArticle": "Lire l'article"
+  },
+  "contactCta": {
+    "heading": "Créons quelque chose de significatif.",
+    "subheading": "Ouverte aux échanges professionnels, opportunités de recrutement et collaborations académiques dans le commerce international et le luxe.",
+    "button": "Prendre contact"
+  },
+  "aboutPage": {
+    "heroEyebrow": "Biographie & Perspective",
+    "heroTitle": "Dédiée à l'art du détail dans le commerce international.",
+    "heroIntro": "Yuga est étudiante en gestion de commerce international à Paris, actuellement en stage chez Christian Louboutin. Son approche allie rigueur stratégique et sensibilité aux codes du luxe.",
+    "backgroundTitle": "Parcours Personnel",
+    "backgroundBody1": "Forte d'un parcours international et d'une sensibilité naturelle pour l'artisanat d'exception, Yuga aborde la gestion d'entreprise à la fois par l'analyse méthodique et la compréhension interculturelle.",
+    "backgroundBody2": "Son cursus universitaire en commerce international lui a apporté une solide maîtrise de la stratégie globale, de la finance d'entreprise, du commerce transfrontalier et du management.",
+    "educationTitle": "Formation",
+    "educationDegree": "Bachelor en Gestion de Commerce International",
+    "educationStatus": "Étudiante en cours de cursus",
+    "educationDetails": "Programme centré sur les stratégies de marchés mondiaux, la finance, les négociations internationales, le comportement du consommateur et la gestion des opérations.",
+    "experienceTitle": "Expérience Professionnelle",
+    "experienceRole": "Stage — Expérience Client & Opérations",
+    "experienceCompany": "Christian Louboutin",
+    "experiencePeriod": "Stage en cours",
+    "experienceDetails": "Contribution à la gestion CRM, à la synchronisation opérationnelle, au reporting des ventes et à l'optimisation continue des interactions clients de prestige.",
+    "skillsTitle": "Compétences & Outils",
+    "skillsCategories": {
+      "business": "Commerce international & stratégie d'entreprise",
+      "tools": "Systèmes & analyse : Excel, plateformes CRM, structuration de données",
+      "languages": "Communication multilingue (anglais, français, japonais)",
+      "competencies": "Clienteling, coordination opérationnelle, codes des maisons de luxe"
+    },
+    "careerTitle": "Ambition Professionnelle",
+    "careerBody": "Désireuse d'évoluer au sein de grandes maisons de luxe et groupes d'art de vivre, avec un intérêt marqué pour la stratégie CRM, les opérations retail, le développement international et l'expérience client.",
+    "cvTitle": "Curriculum Vitae",
+    "cvDescription": "Un curriculum vitae officiel vérifié est disponible sur demande motivée ou dans le cadre d'un échange de recrutement.",
+    "cvButton": "Demander le CV officiel",
+    "cvNotice": "Module de téléchargement du CV prêt. La mise à disposition du fichier sera activée dès validation de recrutement."
+  },
+  "contactPage": {
+    "title": "Prendre contact",
+    "subtitle": "Initier une conversation au sujet d'opportunités, de collaborations ou d'échanges professionnels.",
+    "availability": "Actuellement disponible pour des opportunités professionnelles, échanges de recrutement et réflexions sur le luxe.",
+    "form": {
+      "nameLabel": "Nom complet",
+      "namePlaceholder": "Marie Dupont",
+      "emailLabel": "Adresse email",
+      "emailPlaceholder": "marie.dupont@exemple.com",
+      "subjectLabel": "Objet",
+      "subjectPlaceholder": "Proposition professionnelle / Collaboration",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Décrivez votre projet ou le motif de votre prise de contact...",
+      "submitButton": "Envoyer le message",
+      "sendingButton": "Envoi en cours...",
+      "successTitle": "Message transmis",
+      "successMessage": "Merci pour votre message. Il a bien été reçu et sera examiné attentivement dans les plus brefs délais.",
+      "errorTitle": "Erreur de transmission",
+      "errorMessage": "Un problème est survenu lors de l'envoi. Veuillez réessayer ou utiliser un canal direct.",
+      "unconfiguredNotice": "Note : L'envoi direct d'email est en mode démonstration. Les messages sont validés et journalisés pour cette Phase 1.",
+      "validation": {
+        "nameRequired": "Veuillez renseigner votre nom complet (au moins 2 caractères).",
+        "emailInvalid": "Veuillez indiquer une adresse email valide.",
+        "subjectRequired": "Veuillez préciser un objet (au moins 3 caractères).",
+        "messageRequired": "Veuillez rédiger un message (au moins 10 caractères)."
+      }
+    },
+    "details": {
+      "locationLabel": "Localisation",
+      "locationValue": "Paris, France",
+      "focusLabel": "Domaine principal",
+      "focusValue": "Commerce International & Opérations du Luxe",
+      "affiliationLabel": "Cadre actuel",
+      "affiliationValue": "Christian Louboutin (Stage)"
+    }
+  },
+  "futureRoutes": {
+    "workTitle": "Projets Choisis & Travaux Académiques",
+    "workSubtitle": "Études de cas détaillées, analyses stratégiques et modèles opérationnels.",
+    "luxuryTitle": "Luxury Edit",
+    "luxurySubtitle": "Observations éditoriales, immersion dans l'artisanat et histoire des grandes maisons.",
+    "journalTitle": "Le Journal",
+    "journalSubtitle": "Réflexions sur le luxe, la relation client et le commerce international.",
+    "previewNotice": "Cet espace constitue une future destination éditoriale. Les contenus administrés via CMS seront déployés en Phase 2.",
+    "backHome": "Retour à l'accueil"
+  },
+  "footer": {
+    "tagline": "Le sens du détail. Un avenir dans le luxe.",
+    "copyright": "Tous droits réservés. Fondation Phase 1.",
+    "backToTop": "Haut de page",
+    "disclaimer": "Portfolio personnel indépendant. Christian Louboutin est mentionné uniquement au titre d'une expérience de stage."
+  }
+}
+
